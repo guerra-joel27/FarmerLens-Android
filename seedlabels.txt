@@ -1,0 +1,13 @@
+apple
+cacao
+canola
+corn
+cotton
+orange
+peach
+pomegranate
+rice
+soybean
+sunflower
+tomato
+wheat

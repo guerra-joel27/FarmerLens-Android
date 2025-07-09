@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872894206520",
+    "project_id": "farmer-lens-41104",
+    "storage_bucket": "farmer-lens-41104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872894206520:android:989e6ae9811fa665794ccd",
+        "android_client_info": {
+          "package_name": "com.cse3310.farmerlens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH0gEuWNV5DEDgCts5sRIGLz4vSvJ6Uzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

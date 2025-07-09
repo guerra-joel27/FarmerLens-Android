@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FarmerLens</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="email">email\n</string>
+    <string name="register">register</string>
+    <string name="Register">Register</string>
+    <string name="user_id">user ID</string>
+    <string name="date_of_birth">Date of birth</string>
+</resources>
